@@ -1,0 +1,3 @@
+class shoe 
+  
+end
