@@ -45,12 +45,7 @@ def condition
 end
 
 def cobble
-  if condition == "new"
   puts "Your shoe is as good as new!"
-  
-else 
-  puts "old"
-end
 end
 
 
