@@ -44,8 +44,14 @@ def condition
   @condition
 end
 
-def cobble 
+def cobble(condition)
+  if condition == "new"
   puts "Your shoe is as good as new!"
+  
+else 
+  puts "old"
 end
+
+
   
 end
